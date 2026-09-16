@@ -54,10 +54,3 @@ I build **production backends that ship AI to real users** — async APIs, task 
 | [**Personal AI Agent**](https://huggingface.co/spaces/angxiao/Final_Assignment) 🤗 | LangGraph ReAct agent with multi-tool orchestration (Hugging Face Agents Course capstone); ranked in the top 14% of submissions (outperforming 86% of agents) on a 466-task GAIA-based leaderboard. | LangGraph · LangChain |
 | [**CNSight**](https://github.com/rsiusr/CNSight) · *team project* | Benchmarked 9 NLP/LLM approaches for clinical note segmentation on 1,000+ MIMIC-IV notes. **My part:** data cleaning, test-set evaluation, token-level/weighted/micro-F1 metrics, and ANOVA + effect-size analysis. | Python · Pandas · SciPy · LLMs |
 | [**Multimedia Final Project**](https://github.com/carlhan0817/CSCI576_final_proj) | USC CSCI 576 course project. | Python |
-
-### 📊 GitHub Stats
-
-<p>
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=carlhan0817&show_icons=true&hide_border=true&count_private=true&theme=transparent"/>
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlhan0817&layout=compact&hide_border=true&theme=transparent"/>
-</p>
